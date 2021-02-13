@@ -37,7 +37,7 @@ Salam, Bu Repo menim demo videomdan bu repoya gelenler uchundu. Butun Git pyrene
 
 <br />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
+<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fonipress.com%2Fproducts%2Frick-and-morty-vol-10-oni-exclusive&psig=AOvVaw0Gf5TzOwsTzGwc2uebYYPP&ust=1613299741102000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjo3oXY5u4CFQAAAAAdAAAAABAD" width="400" height="280" />
   
 **Languages and Tools:**  
 
