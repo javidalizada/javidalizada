@@ -37,7 +37,7 @@ Salam, Bu Repo menim demo videomdan bu repoya gelenler uchundu. Butun Git pyrene
 
 <br />
 
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fonipress.com%2Fproducts%2Frick-and-morty-vol-10-oni-exclusive&psig=AOvVaw0Gf5TzOwsTzGwc2uebYYPP&ust=1613299741102000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjo3oXY5u4CFQAAAAAdAAAAABAD" width="400" height="280" />
+<img align="right" alt="GIF" src="https://cdn.shopify.com/s/files/1/0191/7850/products/RICKMORTY_V10_TPB_-_COVER_B_FNL_WEB.jpg?v=1575482946" width="400" height="280" />
   
 **Languages and Tools:**  
 
