@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Salam-Salam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Salam-Salam! <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fonipress.com%2Fproducts%2Frick-and-morty-vol-10-oni-exclusive&psig=AOvVaw0Gf5TzOwsTzGwc2uebYYPP&ust=1613299741102000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjo3oXY5u4CFQAAAAAdAAAAABAD" width="25px">
 <a href="https://vk.com/your_profile">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
